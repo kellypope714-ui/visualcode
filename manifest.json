@@ -1,0 +1,17 @@
+{
+  "name": "VisualCode",
+  "short_name": "VisCode",
+  "description": "A HTML editor built by Kelly",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4c2c2",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
